@@ -1,0 +1,25 @@
+.button {
+    width: 200px;
+    height: 40px;
+
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.06em;
+
+    color: white;
+
+    background-color: rgb(69, 141, 35);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+.menu{
+    width: 250px;
+    height: 100px;
+    margin-top: 20px;
+    background-color: rgb(212, 209, 209);
+    
+}

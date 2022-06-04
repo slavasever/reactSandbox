@@ -1,0 +1,37 @@
+/*  */
+/* ***Модуль 2 - События и состояние*** */
+/*  */
+
+.counter{
+    width: 420px;
+        height: 150px;
+        padding: 10px;
+background-color: rgb(235, 231, 231);
+}
+
+.value{
+        display: block;
+        width: 400px;
+        margin-bottom: 20px;
+font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+
+.button{
+        width: 200px;
+        height: 50px;
+    
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 1.87;
+        letter-spacing: 0.06em;
+    
+        color: white;
+    
+        background-color: rgb(69, 141, 35);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+        border: none;
+        cursor: pointer;
+}

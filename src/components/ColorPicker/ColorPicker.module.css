@@ -1,0 +1,43 @@
+/*  */
+/* ***Модуль 2 - События и состояние*** */
+/*  */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.colorPicker{
+    width: 400px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.title{
+
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+}
+
+.color{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.option{
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+    border: none;
+
+    transition: transform 250ms linear;
+}
+
+.active{
+    transform: scale(1.2);
+}

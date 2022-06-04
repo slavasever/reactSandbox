@@ -1,0 +1,22 @@
+[
+      {
+        "id": "id-1",
+        "text": "Вивчити React",
+        "completed": true
+      },
+      {
+        "id": "id-2",
+        "text": "Вивчити React-Router",
+        "completed": false
+      },
+      {
+        "id": "id-3",
+        "text": "Вивчити Redux",
+        "completed": false
+      },
+      {
+        "id": "id-4",
+        "text": "Вивчити Node",
+        "completed": false
+      }
+    ]
