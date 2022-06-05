@@ -2,7 +2,7 @@
       {
         "id": "id-1",
         "text": "Вивчити React",
-        "completed": true
+        "completed": false
       },
       {
         "id": "id-2",

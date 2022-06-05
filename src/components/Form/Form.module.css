@@ -1,3 +1,17 @@
+/*  */
+/* ***Модуль 2 - Формы*** */
+/*  */
+
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.label{
+    margin-bottom: 20px;
+}
+
 .button {
     width: 200px;
     height: 40px;
@@ -15,16 +29,8 @@
     border: none;
     cursor: pointer;
     transition: transform 250ms linear;
-}
+    }
 
-.button:hover {
-    transform: scale(1.05);
-}
-
-.menu{
-    width: 250px;
-    height: 100px;
-    margin-top: 20px;
-    background-color: rgb(212, 209, 209);
-    
-}
+    .button:hover {
+        transform: scale(1.05);
+    }
